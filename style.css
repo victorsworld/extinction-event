@@ -9,6 +9,8 @@
 #row {
   display: flex;
   justify-content: space-around;
+  transition: 5s opacity;
+  
 }
 
 img {
